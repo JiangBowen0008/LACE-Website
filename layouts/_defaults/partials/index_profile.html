@@ -3,7 +3,7 @@
     <div class="profile_inner">
         {{- if .imageUrl -}}
         <img src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}"
-            height="{{ .imageHeight | default auto }}" width="{{ .imageWidth | default 100% }}" />
+            height=auto width=100% />
         {{- end }}
         <h1>{{ .title | default $.Site.Title | markdownify }}</h1>
         <span>{{ .subtitle | markdownify }}</span>
