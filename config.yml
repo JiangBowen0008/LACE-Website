@@ -114,8 +114,8 @@ params:
     profileMode:
         enabled: true
         title: PaperMod
-        imageUrl: "static/papermod-cover.png"
-        imageTitle: my image
+        imageUrl: "https://github.com/JiangBowen0008/LACE-Website/blob/papermod/static/papermod-cover.png?raw=true"
+        imageTitle: cover_image
         # imageWidth: 120
         # imageHeight: 120
         buttons:
