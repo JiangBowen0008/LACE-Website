@@ -1,4 +1,8 @@
 .buttons,
+.header {
+    background: rgba(29, 30, 32, 1);
+}
+
 .main {
     width: inherit;
     margin: 0;
@@ -8,7 +12,7 @@
 
 .main .center {
     position: absolute;
-    top: 35%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
