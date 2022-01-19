@@ -1,14 +1,14 @@
 .buttons,
 .main {
     width: inherit;
-    margin: 0;
-    padding: 0;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
 }
 
 .main .profile {
     display: flex;
     justify-content: center;
-    margin: 0;
+    margin: 0 0 0 0;
 }
 
 .main .profile {
