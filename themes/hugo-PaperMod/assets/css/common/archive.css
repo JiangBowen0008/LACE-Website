@@ -1,9 +1,16 @@
+.header {
+    background: rgba(255, 255, 255, 0.8);
+    color: rgba(78, 78, 78, 0.8);
+}
+
 .main_pad {
     position: relative;
     min-height: calc(100vh - var(--header-height) - var(--footer-height));
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: var(--gap);
+    background: rgba(255, 255, 255, 0.8);
+    color: rgba(78, 78, 78, 0.8);
     /* margin: auto var(--gap); */
 }
 
