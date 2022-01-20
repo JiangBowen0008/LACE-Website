@@ -120,9 +120,9 @@ params:
         # imageWidth: 120
         # imageHeight: 120
         buttons:
-            - name: Archives
-              url: archives
-            - name: Tags
+            - name: Github
+              url: https://github.com/LACE-Lab
+            - name: About LACE
               url: tags
 
     homeInfoParams:
@@ -136,13 +136,13 @@ params:
 
             - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
 
-    socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: RsS
-          url: "index.xml"
+    # socialIcons:
+    #     - name: github
+    #       url: "https://github.com/LACE-Lab"
+    #     - name: KoFi
+    #       url: "https://ko-fi.com/adityatelange"
+    #     - name: RsS
+    #       url: "index.xml"
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
