@@ -1,16 +1,4 @@
 .buttons,
-.header {
-    background: rgba(29, 30, 32, 1);
-}
-
-.a {
-    color: rgba(255, 255, 255, 0.8);
-}
-
-.main h1 {
-    color: rgba(255, 255, 255, 0.8);
-}
-
 .main {
     width: inherit;
     margin: 0;
