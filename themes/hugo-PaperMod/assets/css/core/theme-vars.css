@@ -15,6 +15,7 @@
     --hljs-bg: rgb(28, 29, 33);
     --code-bg: rgb(245, 245, 245);
     --border: rgb(238, 238, 238);
+    --cover: url("https://github.com/JiangBowen0008/LACE-Website/blob/papermod/static/background_light.png?raw=true")
 }
 
 .dark {
@@ -27,6 +28,7 @@
     --hljs-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
+    --cover: url("https://github.com/JiangBowen0008/LACE-Website/blob/papermod/static/background.png?raw=true")
 }
 
 .list {

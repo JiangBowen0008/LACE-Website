@@ -1,20 +1,4 @@
 .buttons,
-.header{
-    background: rgb(30, 30, 30);
-}
-
-.header a {
-    color: rgb(218, 218, 219);
-}
-
-.main h1 {
-    color: rgb(218, 218, 219);
-}
-
-.main span {
-    color: rgb(218, 218, 219);
-}
-
 .main {
     width: inherit;
     margin: 0;
@@ -49,6 +33,7 @@
 .profile img {
     display: inline-table;
     pointer-events: none;
+    content: var(--cover);
 }
 
 .buttons {
