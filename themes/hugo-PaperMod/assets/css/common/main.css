@@ -8,6 +8,7 @@
 
 .page-header h1 {
     font-size: 40px;
+    color: inherit;
 }
 
 .pagination {
@@ -15,10 +16,10 @@
 }
 
 .pagination a {
-    color: var(--theme);
+    color: inherit;
     font-size: 13px;
     line-height: 36px;
-    background: var(--primary);
+    background: inherit;
     border-radius: calc(36px / 2);
     padding: 0 16px;
 }
