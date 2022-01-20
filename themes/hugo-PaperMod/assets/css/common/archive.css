@@ -1,7 +1,6 @@
-/* .header {
-    background: rgba(255, 255, 255, 0.8);
-    color: rgba(78, 78, 78, 0.8);
-} */
+.header {
+    background: rgba(245, 245, 245, 1);
+}
 
 .main_pad {
     position: relative;
@@ -9,7 +8,7 @@
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: var(--gap);
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(245, 245, 245, 1);
     color: rgba(78, 78, 78, 0.8);
     /* margin: auto var(--gap); */
 }

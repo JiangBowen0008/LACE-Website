@@ -1,4 +1,8 @@
 .buttons,
+.header {
+    background: rgba(78, 78, 78, 0.8);
+}
+
 .main {
     width: inherit;
     margin: 0;
