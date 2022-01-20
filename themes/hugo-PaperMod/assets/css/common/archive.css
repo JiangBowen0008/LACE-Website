@@ -1,5 +1,9 @@
-.header{
+.header {
     background: rgb(245, 245, 245);
+}
+
+.header a {
+    color: rgb(218, 218, 219);
 }
 
 .main_pad {
