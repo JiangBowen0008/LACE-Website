@@ -113,7 +113,8 @@ params:
 
     profileMode:
         enabled: true
-        title: PaperMod
+        title: L.A.C.E Lab
+        subtitle: Learning Agents in Complex Environments
         imageUrl: "https://github.com/JiangBowen0008/LACE-Website/blob/papermod/static/background.png?raw=true"
         imageTitle: cover_image
         # imageWidth: 120
