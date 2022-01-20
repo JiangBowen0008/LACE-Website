@@ -21,17 +21,17 @@ languages:
         weight: 1
         menu:
             main:
-                - name: Archive
-                  url: archives
+                - name: GitHub
+                  url: https://github.com/LACE-Lab
                   weight: 5
                 - name: Search
                   url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: Categories
+                  weight: 15
+                - name: Research
                   url: categories/
+                  weight: 10
+                - name: Publications
+                  url: archives/
                   weight: 10
 
     # fr:
@@ -136,9 +136,9 @@ params:
 
             - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
 
-    # socialIcons:
-    #     - name: github
-    #       url: "https://github.com/LACE-Lab"
+    socialIcons:
+        - name: github
+          url: "https://github.com/LACE-Lab"
     #     - name: KoFi
     #       url: "https://ko-fi.com/adityatelange"
     #     - name: RsS
