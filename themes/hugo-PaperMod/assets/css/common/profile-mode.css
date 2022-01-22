@@ -7,11 +7,11 @@
 }
 
 .main h1 {
-    font-size: 96pt;
+    font-size: 48pt;
 }
 
-.main span {
-    font-size: 36pt;
+.main .span .subtitle{
+    font-size: 18pt;
 }
 
 .main .center {

@@ -119,11 +119,11 @@ params:
         imageTitle: cover_image
         # imageWidth: 120
         # imageHeight: 120
-        buttons:
-            - name: Github
-              url: https://github.com/LACE-Lab
-            - name: About LACE
-              url: tags
+        # buttons:
+        #     - name: Github
+        #       url: https://github.com/LACE-Lab
+        #     - name: About LACE
+        #       url: tags
 
     homeInfoParams:
         Title: "PaperMod"
