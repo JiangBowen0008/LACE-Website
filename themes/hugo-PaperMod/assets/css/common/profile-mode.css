@@ -6,11 +6,11 @@
     max-width: 100%;
 }
 
-.main h1 {
+.center h1 {
     font-size: 48pt;
 }
 
-.main .span .subtitle{
+.center .span .subtitle{
     font-size: 18pt;
 }
 
@@ -67,6 +67,6 @@
 }
 
 .intro {
-    padding: 0 128px;
+    padding: 128px 0 ;
     max-width: calc(var(--main-width) + var(--gap) * 2);
 }
