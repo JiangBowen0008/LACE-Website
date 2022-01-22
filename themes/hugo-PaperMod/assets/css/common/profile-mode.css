@@ -6,6 +6,14 @@
     max-width: 100%;
 }
 
+.main h1 {
+    font-size: 96pt;
+}
+
+.main span {
+    font-size: 36pt;
+}
+
 .main .center {
     position: absolute;
     top: 40%;
